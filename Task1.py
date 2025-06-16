@@ -1,5 +1,3 @@
-# Program to Do Addition,Subtraction,Multiplication and Division of two numbers entered by the user
-
 num1=int(input("Enter First Number :"))
 num2=int(input("Enter Second Number :"))
 print("Addition :" , num1 + num2)
